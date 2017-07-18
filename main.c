@@ -30,7 +30,7 @@ int main (void)
   printf ("Four variable: %i\n", four);
   printf ("FIve variable: %i\n\n", five);
 
-  // Выводим адреса переменных
+  // Выводим адреса указателей
   printf ("One adress: %p\n", onePointer);
   printf ("Two adress: %p\n", twoPointer);
   printf ("Three adress: %p\n", threePointer);
